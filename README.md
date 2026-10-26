@@ -32,4 +32,4 @@ All exercises are performed on my own virtual machine. Security settings are cha
 
 ## Conclusion
 
-This lab helps develop practical knowledge of Linux permissions and basic system hardening.
+This lab helps develop practical knowledge of Linux permissions and basic system hardening
